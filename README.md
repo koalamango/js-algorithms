@@ -1,7 +1,7 @@
  # Common Algorithms in JavaScript 
 
 
-#### What's an algorithm?
+### What's an algorithm?
 
 > An algorithm is a set of instruction to solve problems. 
 
@@ -9,7 +9,7 @@ Still confused? [Watch the video](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 of Professor David J. Malan explains how algorithms can be used in seemingly 
 simple situations and also complex ones. 
 
-#### List of common algorithms
+### List of common algorithms
  
 * [Fizz Buzz](src/fizzbuzz.js)
 
