@@ -17,4 +17,4 @@ This course contains 300 points (aks challenges), includes:
 
 <hr>
 
-![](../assets/FCC_JavaScript Algorithms_and_Data Structures_Certificate.png)
+![](../assets/FCC_JavaScript_Algorithms_and_Data_Structures_Certificate.png)
